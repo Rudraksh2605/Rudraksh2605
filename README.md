@@ -68,7 +68,7 @@ class AndroidDeveloper {
 
 ### 🎯 Quick Stats
 - 📱 **5+** Android Projects
-- ⭐ **1000+** Lines of Code
+- ⭐ **10000+** Lines of Code
 - 🏆 **Top 1.1%** LeetCode Rank  
 - 👥 **10+** Developers Mentored
 
