@@ -34,7 +34,7 @@
 class AndroidDeveloper {
     val name = "Rudraksh"
     val role = "Android Developer"
-    val location = "📍 Vellore, India"
+    val location = "📍 Bhopal, India"
     val education = "🎓 B.Tech CSE @ VIT"
     val status = "💼 Open to opportunities"
     
